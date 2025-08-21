@@ -22,7 +22,7 @@ Hi there! I'm currently pursuing my Bachelor of Computer Applications and active
 
 📫 Let's connect!
 - 📧 Email: trrakhitha98@gmail.com
-- 💼 LinkedIn: rakshithatr
+- 💼 LinkedIn: https://www.linkedin.com/in/rakshitha-tr-
 
 
 Thanks for visiting my GitHub! I'm excited to grow and contribute 🚀
